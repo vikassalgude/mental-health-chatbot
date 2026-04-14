@@ -258,10 +258,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 MIT License
 
 ---
-
-If you'd like, I can also:
-
-* Create a **GitHub-ready badge version**
-* Generate a **system architecture diagram**
-* Provide a **folder structure template**
-* Or prepare a **pitch deck version** for investors**
